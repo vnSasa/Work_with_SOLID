@@ -30,7 +30,7 @@ It is necessary to redefine the interface methods in the Su-27 class to:
 
 Describe the fields: maximum speed, color, which to pass to the designer with the parameters.
 
-## Create a Maine class, where to create a Main method, create a Su-27 object in it. And now we simulate the flight of an airplane.
+## Create a Main class, where to create a Main method, create a Su-27 object in it. And now we simulate the flight of an airplane.
 
 A) Start the aircraft engines
 
